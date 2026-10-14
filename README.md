@@ -92,15 +92,3 @@ flowchart LR
 More on my portfolio: **[ajanakingdavid.carrd.co](https://ajanakingdavid.carrd.co/)**
 
 ---
-
-## 📊 GitHub stats
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=King-David02&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=King-David02&theme=dark&hide_border=false&layout=compact&hide=html,css&langs_count=8" alt="Top languages"/>
-</p>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=King-David02&theme=dark&hide_border=false" alt="Streak"/>
-</p>
