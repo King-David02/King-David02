@@ -77,6 +77,7 @@ flowchart LR
 **Cloud**<br/>
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Amazon EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 ---
@@ -94,9 +95,11 @@ More on my portfolio: **[ajanakingdavid.carrd.co](https://ajanakingdavid.carrd.c
 
 ## 📊 GitHub stats
 
+## 📊 GitHub stats
+
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=King-David02&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=King-David02&theme=dark&hide_border=false&layout=compact" alt="Top languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=King-David02&theme=dark&hide_border=false&layout=compact&hide=html,css&langs_count=8" alt="Top languages"/>
 </p>
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=King-David02&theme=dark&hide_border=false" alt="Streak"/>
